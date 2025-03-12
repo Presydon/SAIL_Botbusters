@@ -1,0 +1,14 @@
+numpy==1.26.2
+torch
+streamlit
+asyncio
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-core
+chromadb
+python-dotenv
+playwright
+watchdog
+html2text
